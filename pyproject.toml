@@ -1,0 +1,15 @@
+[project]
+name = "book-cover-finder-comfy"
+description = "Book Cover Finder tool that wraps openlibrary.org
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = ["",]
+
+[project.urls]
+Repository = "https://github.com/weberjc/book-cover-finder-comfy"
+
+[tool.comfy]
+PublisherId = "jenn"
+DisplayName = "BookCoverFinder"
+Icon = ""
+
